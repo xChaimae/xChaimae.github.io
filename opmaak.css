@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(71, 106, 212);
+    background-color: rgb(54, 85, 176);
 }
 ul {
     list-style-type: none;
@@ -23,5 +23,5 @@ ul {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: rgba(71, 74, 160, 0.853);
+    background-color: rgba(54, 85, 176)
   }
