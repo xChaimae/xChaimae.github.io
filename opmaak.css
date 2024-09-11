@@ -10,7 +10,7 @@ ul {
     margin: 0px;
     padding: 10px;
     overflow: hidden;
-    background-color: rgba(255, 255, 255, 0.98);
+    background-color: rgba(32, 70, 177, 0.98);
   }
   
   li {
@@ -27,7 +27,7 @@ ul {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: rgba(150,43,43);
+    background-color: rgb(107, 167, 207);
   }
   p {
     border: solid;
