@@ -28,7 +28,7 @@ ul {
   /* Change the link color to #111 (black) on hover */
   li a:hover {
     background-color: rgba(150,43,43)
-  }
-  h1 {
-    border: solid;
+  
+  p {
+    border: solid
   }
