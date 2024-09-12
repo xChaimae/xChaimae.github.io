@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(180, 189, 219);
+    background-color: rgb(186, 202, 255);
 }
 div {
   margin: 70px;
@@ -10,7 +10,7 @@ ul {
     margin: 0px;
     padding: 10px;
     overflow: hidden;
-    background-color: rgba(32, 70, 177, 0.98);
+    background-color: rgba(19, 52, 143, 0.98);
   }
   
   li {
@@ -27,7 +27,7 @@ ul {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: rgb(107, 167, 207);
+    background-color: rgb(186, 202, 255)
   }
   p {
     border: solid;
