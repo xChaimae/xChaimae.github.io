@@ -33,4 +33,5 @@ ul {
   border-style: double;/*rand om h1 heen*/
   color:rgb(0, 0, 0) /*tekst kleur van h1*/
   text-align: center/*h1 is boven in het midden van pagina*/
+  width: 50px;
  }
