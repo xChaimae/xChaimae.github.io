@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(186, 202, 255);
+    background-color: rgb(240, 229, 228);
 }
 div {
   margin: 70px;
@@ -10,7 +10,7 @@ ul {
     margin: 0px;
     padding: 10px;
     overflow: hidden;
-    background-color: rgba(19, 52, 143, 0.98);
+    background-color: rgba(248, 187, 208, 1)
   }
   
   li {
