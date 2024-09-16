@@ -30,8 +30,8 @@ ul {
     background-color: rgb(186, 202, 255)
   }
  h2{
-  border-style: double;/*rand om h1 heen*/
-  color:rgb(0, 0, 0) /*tekst kleur van h1*/
-  text-align: center/*h1 is boven in het midden van pagina*/
+  border-style: double;/*rand om h2 heen*/
+  color:rgb(0, 0, 0); /*tekst kleur van h2*/
+  text-align: center;/*h2 is boven in het midden van pagina*/
   width: 50px;
  }
