@@ -8,7 +8,7 @@ div {
 ul {
     list-style-type: none;
     margin: 0px;
-    padding: 10px;
+    padding: 0px;
     overflow: hidden;
     background-color: rgb(213, 129, 160)
   }
@@ -21,7 +21,7 @@ ul {
     display: block;
     color: rgba(0, 0, 0, 0.98);
     text-align: center;
-    padding: 14px 16px;
+    padding: 18px 21px;
     text-decoration: none;
   }
   
