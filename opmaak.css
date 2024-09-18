@@ -10,7 +10,7 @@ ul {
     margin: 0px;
     padding: 10px;
     overflow: hidden;
-    background-color: rgb(223, 95, 142)
+    background-color: rgb(213, 129, 160)
   }
   
   li {
@@ -27,7 +27,7 @@ ul {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: rgb(216, 109, 103)
+    background-color: rgb(223, 170, 187)
   }
  h2{
   border-style: double;/*rand om h2 heen*/
