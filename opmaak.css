@@ -37,8 +37,9 @@ ul {
 
  img {
   float: right;
-  margin-right: 50px;
-  width: 50px; /* Pas de breedte aan naar wens */
+  margin-right: 30px;
+  width: 40px; /* Pas de breedte aan naar wens */
+  height: fit-content;
   
 }
  p{
