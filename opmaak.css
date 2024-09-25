@@ -44,7 +44,8 @@ ul {
 }
  p{
   width: 65%;
-  background-color:  rgb(223, 170, 187)
+  background-color:  rgb(223, 170, 187);
+  border-radius: 25px;
  }
  #rcorners2 {
   border-radius: 25px;
