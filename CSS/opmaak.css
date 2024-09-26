@@ -54,8 +54,8 @@ ul {
   width: 200px;
   height: 150px;
  }
- <footer> 
-        <p> <div id="footer">
-  ©2024. Chaimae Dahman- Alle rechten voorbehouden. 
-    </div></p>
-    </footer>
+ <footer>
+  <div id="footer">
+    ©2024. Chaimae Dahman - Alle rechten voorbehouden.
+  </div>
+</footer>
