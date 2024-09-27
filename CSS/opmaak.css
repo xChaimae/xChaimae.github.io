@@ -58,7 +58,6 @@ ul {
   margin-right: 3;
   display: block
 } 
-
  #rcorners2 {
   border-radius: 25px;
   border: 2px solid  rgb(255, 169, 230);
@@ -74,8 +73,9 @@ ul {
  
  .Dokter{
   margin-top: 50px;
-  float: left;
+  margin-left: 60;
+ 
  }
  .Lezen{
-  float: left;
+  margin-left: auto;
  }
