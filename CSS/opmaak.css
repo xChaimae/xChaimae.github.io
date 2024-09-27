@@ -1,36 +1,39 @@
 body {
     background-color: rgb(248, 232, 230)
 }
+/* Achtergrondkleur voor de hele body van de pagina */
 
-div {
-  margin: 50px;
-  border: 1px solid rgb(0, 0, 0);
+div {  /* elke div element krijgt onderstaande wijzigingen */
+
+  margin: 50px; /*ruimte rondom element*/
+  border: 1px solid rgb(0, 0, 0); /*zwarte rand om het element*/
 }
 
-ul {
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
-    overflow: hidden;
-    background-color: rgb(246, 183, 173)
+
+ul { /*het menu/*
+    list-style-type: none; /*geen opsommingtekens*/
+    margin: 0px; /*ruimte rondom menu*/
+    padding: 0px; /*geen ruimte tussen inhoud en border*/
+    overflow: hidden; /*lijst steekt niet uit*/
+    background-color: rgb(246, 183, 173) /*de kleur*/
   }
   
   li {
     float: left;
-  }
+  } /*de kopjes in het menu komen naast elkaar*/
   
   li a {
-    display: block;
-    color: rgb(0, 0, 0);
-    text-align: center;
-    padding: 10px 6px;
-    text-decoration: none;
+    display: block; /*het menu is in blokvorm*/
+    color: rgb(0, 0, 0); /*tekstkleur*/
+    text-align: center; /*tekst in het midden*/
+    padding: 10px 6px; /*ruimte tussen inhoud en border*/
+    text-decoration: none; /*geen streep onder menu kopjes*/
   }
   
 
   li a:hover {
     background-color: rgb(247, 192, 183);
-  }
+  } /*welke kleur je ziet als je klikt om menu*/
 
  h2{
   border-style: double;/*rand om h2 heen*/
@@ -38,74 +41,65 @@ ul {
   text-align: center;/*h2 is boven in het midden van pagina*/
  }
 
- h3{
-  width: 20%;
-  background-color:  rgb(246, 183, 173);
-  border-radius: 15px;
+ h3{ 
+  width: 20%; /*breedte*/
+  background-color:  rgb(246, 183, 173); /*kleur*/
+  border-radius: 15px; /*ronde hoeken van border om h*/
  }
 
  h4{
-  width: 60%;
+  width: 60%; /*breedte*/
  }
 
 .footer { 
-  background-color:rgb(246, 183, 173);
-  color: rgb(0, 0, 0);
-  padding: 20px;
-  text-align: center;
-  margin-top: 250px;
-  margin-right: 3px;
-  display: block
+  background-color:rgb(246, 183, 173); /*kleur*/
+  color: rgb(0, 0, 0); /*tekstkleur*/
+  padding: 20px; /*padding*/
+  text-align: center; /*tekst in midden*/
+  margin-top: 250px; /*ruimte vanaf top tot element*/
+  margin-right: 3px; /*ruimte vanaf rechts tot element*/
+  display: block /*vorm van footer*/
 } 
 
- #rcorners2 {
-  border-radius: 25px;
-  border: 2px solid  rgb(220, 255, 225);
-  padding: 20px; 
-  width: 200px;
-  height: 150px;
- }
 
  h3.Welkom{
-  border-style: dotted;
+  border-style: dotted; /*stijl van border*/
   width: 20%;
   background-color: rgb(247, 214, 209);
  }
  
- .Dokter{
-  height: 350px;
-  width: 300px;
-  top: -600px;     
-  margin-right: 100px;
-  float: right;  
+ .Dokter{ /*map voor afbeelding*/
+  height: 350px; /*hoogte*/
+  width: 300px; /*breedte*/ 
+  float: right;   /*element naar rechts*/ 
+  margin-right: 100px; /*element en rechts, de afstand daartussen*/
  }
 
- .Lezen{
+ .Lezen{ /*map*/
   height: 400px;
   width: 300px;
   float: right;
-  margin-bottom: 200px;
-  margin-right: 100px;
+  margin-bottom: 200px; /*afstand boven tot element*/
+  margin-right: 100px; /*afstand rechts tot element*/
  }
 
  .informatica{
-height: 600px;
-float: right;
-margin-right: 75px;
+height: 600px; /*al het commentaar bovenin hoort hier ook bij*/
+float: right; /*rechts*/
+margin-right: 75px; /*afstand element tot rechts*/
 margin-top: 5px;
-
  }
+
  .invoer en uitvoer{
-  margin: top 1500px ;
+  margin: top 1500px ; 
   height:1000 px;
   width: 1000 px;
-  
  }
  
  .Verschil{
   float: right;
-
  }
+
  .Binair-stelsel{
   height: 300px;
  }
@@ -116,7 +110,7 @@ float: right;
  }
 
 .Geluid{
-  margin-top: 600px;
+  margin-top: 400px;
 }
 
 .Lossless-compressie{
