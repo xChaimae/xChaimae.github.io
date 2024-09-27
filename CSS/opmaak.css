@@ -47,6 +47,9 @@ ul {
   background-color:  rgb(223, 170, 187);
   border-radius: 15px;
  }
+ h4{
+  width: 75%;
+ }
  #footer { 
   background-color: rgb(249, 209, 235);
 } 
