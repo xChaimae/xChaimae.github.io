@@ -27,7 +27,7 @@ ul {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: rgb(223, 170, 187)
+    background-color: rgb(223, 170, 187);
   }
  h2{
   border-style: double;/*rand om h2 heen*/
