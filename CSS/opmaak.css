@@ -75,9 +75,12 @@ ul {
   margin-bottom: 600px;
   margin-top: 200px;
   margin-left: 60px;
+  border: 1px white;
+
  
  }
  .Lezen{
   margin-left: -20px;
   margin-top: -30px;
+  border: 1px white;
  }
