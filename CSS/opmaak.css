@@ -48,18 +48,18 @@ ul {
   border-radius: 15px;
  }
  h4{
-  padding: 20px;
+  font-size: large;
  }
  #footer { 
   background-color: rgb(249, 209, 235);
 } 
 #footer {
 text-align: center;
-margin: right 3%;;  
+margin: right 3%;
 } 
  #rcorners2 {
   border-radius: 25px;
-  border: 2px solid  rgb(223, 170, 187)
+  border: 2px solid  rgb(223, 170, 187);
   padding: 20px; 
   width: 200px;
   height: 150px;
