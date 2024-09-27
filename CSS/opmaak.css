@@ -71,4 +71,10 @@ margin: right 3%;
   background-color: rgb(248, 232, 238);
  }
  
- 
+ .Dokter{
+  margin-top: 50px;
+  float: left;
+ }
+ .Lezen{
+  float: left;
+ }
