@@ -65,11 +65,10 @@ ul {
  }
  
  .Dokter{
- 
   height: 400px;
   width: 300px;
   top: -700px;     
-  margin-left: 50px;
+  margin-right: 50px;
   float: right;  
  }
  .Lezen{
@@ -79,5 +78,5 @@ ul {
  }
  .Verschil{
   float: right;
-  
+
  }
