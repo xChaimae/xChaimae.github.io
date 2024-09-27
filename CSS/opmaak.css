@@ -72,15 +72,16 @@ ul {
  }
  
  .Dokter{
+  padding-top: 0px; /* Verminder de padding om het element omhoog te krijgen */
   margin-bottom: 25px;
   margin-top: 10px;
   margin-left: 60px;
-  border: 1px white;
+  border: 1px solid white;
 
  
  }
  .Lezen{
   margin-left: 30px;
-  margin-bottom: 45px;
+  margin-bottom: 60px;
   border: 1px white;
  }
