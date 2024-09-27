@@ -82,11 +82,12 @@ ul {
  .informatica{
 height: 600px;
 float: right;
-margin-right: 50px;
+margin-right: 75px;
 margin-top: 5px;
 
  }
  .invoer en uitvoer{
+  margin: top 1500px; ;
   height:1000 px;
   width: 1000 px;
   
