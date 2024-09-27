@@ -69,10 +69,12 @@ ul {
   height: 400px;
   width: 300px;
   top: -700px;     
-  margin-left: 50px;  
+  margin-left: 50px;
+  float: right;  
  }
  .Lezen{
   height: 400px;
   width: 300px;
+  float: right;
  
  }
