@@ -3,7 +3,7 @@ body {
 }
 div {
   margin: 50px;
-  border: 1px solid rgb(255, 169, 230);
+  border: 1px solid rgb(0, 0, 0);
 }
 ul {
     list-style-type: none;
