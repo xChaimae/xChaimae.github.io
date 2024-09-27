@@ -57,6 +57,7 @@ ul {
   background-color:  rgb(249, 209, 235);
   text-align: center;
   padding: 10px;
+  display:block
 }
  #rcorners2 {
   border-radius: 25px;
