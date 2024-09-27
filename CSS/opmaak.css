@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(244, 209, 221);
+    background-color: rgb(248, 232, 238);
 }
 div {
   margin: 50px;
@@ -27,7 +27,7 @@ ul {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: rgb(223, 170, 187);
+    background-color: rgb(248, 232, 238);
   }
  h2{
   border-style: double;/*rand om h2 heen*/
@@ -44,14 +44,14 @@ ul {
 }
  h3{
   width: 20%;
-  background-color:  rgb(223, 170, 187);
+  background-color:  rgb(248, 232, 238);
   border-radius: 15px;
  }
  h4{
   width: 75%;
  }
 #footer { 
-  background-color:rgb(249, 209, 235);
+  background-color:rgb(248, 232, 238);
 } 
 #footer {
 text-align: center;
@@ -67,5 +67,5 @@ margin: right 3%;
  h3.Welkom{
   border-style: dotted;
   width: 20%;
-  background-color: rgb(244, 209, 221);
+  background-color: rgb(248, 232, 238);
  }
