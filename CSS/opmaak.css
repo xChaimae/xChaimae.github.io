@@ -54,8 +54,10 @@ ul {
   width: 200px;
   height: 150px;
  }
- <footer>
-  <div id="footer">
-    ©2024. Chaimae Dahman - Alle rechten voorbehouden.
-  </div>
-</footer>
+ #footer { 
+  background-color: rgb(255, 240, 219);
+} 
+#footer {
+text-align: center;
+margin: right 3%;;  
+}
