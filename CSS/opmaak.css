@@ -50,14 +50,15 @@ ul {
  h4{
   width: 60%;
  }
-#footer { 
+.footer { 
   background-color:rgb(253, 187, 211);
+  color: black;
   padding: 20px;
+  text-align: center;
+  margin-right: 3;
+  display: block
 } 
-#footer {
-text-align: center;
-margin: right 3%;  
-}
+
  #rcorners2 {
   border-radius: 25px;
   border: 2px solid  rgb(255, 169, 230);
