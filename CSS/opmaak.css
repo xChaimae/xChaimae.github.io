@@ -48,7 +48,7 @@ ul {
   color: rgb(0, 0, 0);
   padding: 20px;
   text-align: center;
-  margin-top: 400px;
+  margin-top: 250px;
   margin-right: 3px;
   display: block
 } 
@@ -79,6 +79,10 @@ ul {
   margin-bottom: 200px;
   margin-right: 100px;
  }
+ .informatica{
+
+ }
+ 
  .Verschil{
   float: right;
 
