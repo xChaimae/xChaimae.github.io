@@ -25,6 +25,10 @@
    De manier waarop kleuren worden vertoond op je scherm, namelijk door op een zwarte achtergrond kleuren toe te voegen, is anders dan hoe kleuren op uitgeprint papier eruitzien.  Daarom gebruik je een apart kleurenmodel genaamd CMY, voor druktechniek. De drie primaire kleuren: cyan, magenta en yellow (geel) worden hiervoor gebruikt.  Ze zijn subtractief, wat betekent dat in plaats van kleuren te produceren, ze ze juist absorberen. Ze trekken licht uit de primaire kleuren. De regel is dus ook ‘hoe meer kleur je drukt, hoe donkerder de kleur wordt’. Het is in principe het tegenovergestelde kleurenmodel van RGB, omdat alles op een witte achtergrond wordt gezet. Het probleem daarbij is wel dat hoewel je alle kleuren op elkaar ‘legt’, je nooit echt zwart zal krijgen. Daarom wordt bij het toevoegen van zwart het CMYK model gebruikt, waarbij de K staat voor key of black. In het CMY-model worden kleuren samengesteld door verschillende hoeveelheden van deze drie inkt kleuren te combineren. Hier wordt de intensiteit van de kleuren van hoog tot laag bepaald door 0 tot 255. Dus de ‘code’ van rood bij RGB is bijvoorbeeld (255, 0, 0), maar bij CMY is de code (0,0, 255). De formule voor CMY is dus (255-R), (255-G), (255-B). Hierbij betekent een waarde van 255 dat er geen kleur aanwezig is. Voor een andere kleur zoals blauw in RGB, dat (0, 0, 255) is, zou de CMY-code (255, 255, 0) zijn, omdat cyaan en magenta worden toegevoegd om het licht te absorberen dat anders blauw zou zijn. We willen namelijk niet dat rood en groen licht wordt weerkaatst. 
   In het kort, het verschil tussen RGB en CMYK, is dat RGB licht toevoegt om kleuren te creëren, terwijl CMY het juist absorbeert. Om die reden gebruiken we RGB voor digitale schermen en CMY juist voor afdruktechnieken. Op die manier kunnen we een grote schaal van allerlei kleuren creëren en weergeven. 
   </h4>
-
+  <footer>
+    <div id="footer">
+      ©2024. Chaimae Dahman - Alle rechten voorbehouden.
+    </div>
+  </footer>
 </body>
 </html>
