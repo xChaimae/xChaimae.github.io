@@ -10,7 +10,7 @@ ul {
     margin: 0px;
     padding: 0px;
     overflow: hidden;
-    background-color: rgb(160, 133, 143)
+    background-color: rgb(255, 216, 230)
   }
   
   li {
@@ -19,7 +19,7 @@ ul {
   
   li a {
     display: block;
-    color: rgba(0, 0, 0, 0.98);
+    color: rgba(253, 187, 211);
     text-align: center;
     padding: 10px 6px;
     text-decoration: none;
@@ -31,7 +31,7 @@ ul {
   }
  h2{
   border-style: double;/*rand om h2 heen*/
-  color:rgb(0, 0, 0); /*tekst kleur van h2*/
+  color:rgb(241, 186, 186); /*tekst kleur van h2*/
   text-align: center;/*h2 is boven in het midden van pagina*/
  }
 
