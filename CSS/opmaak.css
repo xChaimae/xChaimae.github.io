@@ -1,16 +1,16 @@
 body {
-    background-color: rgb(248, 202, 195)
+    background-color: rgb(247, 214, 209)
 }
 div {
   margin: 50px;
-  border: 1px solid rgb(244, 41, 41);
+  border: 1px solid rgb(255, 252, 252);
 }
 ul {
     list-style-type: none;
     margin: 0px;
     padding: 0px;
     overflow: hidden;
-    background-color: rgb(253, 198, 190)
+    background-color: rgb(255, 180, 168)
   }
   
   li {
@@ -44,8 +44,8 @@ ul {
   width: 60%;
  }
 .footer { 
-  background-color:rgb(87, 93, 84);
-  color: rgb(62, 58, 106);
+  background-color:rgb(255, 180, 168);
+  color: rgb(0, 0, 0);
   padding: 20px;
   text-align: center;
   margin-right: 3;
@@ -61,7 +61,7 @@ ul {
  h3.Welkom{
   border-style: dotted;
   width: 20%;
-  background-color: rgb(248, 202, 195);
+  background-color: rgb(247, 214, 209);
  }
  
  .Dokter{
