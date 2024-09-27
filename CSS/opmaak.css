@@ -1,16 +1,16 @@
 body {
-    background-color: rgb(248, 232, 238);
+    background-color: rgb(43, 181, 46);
 }
 div {
   margin: 50px;
-  border: 1px solid rgb(0, 0, 0);
+  border: 1px solid rgb(244, 41, 41);
 }
 ul {
     list-style-type: none;
     margin: 0px;
     padding: 0px;
     overflow: hidden;
-    background-color: rgb(248, 138, 211)
+    background-color: rgb(92, 213, 232)
   }
   
   li {
@@ -19,7 +19,7 @@ ul {
   
   li a {
     display: block;
-    color: rgba(248, 138, 211);
+    color: rgb(205, 173, 46);
     text-align: center;
     padding: 10px 6px;
     text-decoration: none;
@@ -27,11 +27,11 @@ ul {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(245, 96, 10);
   }
  h2{
   border-style: double;/*rand om h2 heen*/
-  color:rgb(0, 0, 0); /*tekst kleur van h2*/
+  color:rgb(218, 19, 244); /*tekst kleur van h2*/
   text-align: center;/*h2 is boven in het midden van pagina*/
  }
 
@@ -44,15 +44,15 @@ ul {
 }
  h3{
   width: 20%;
-  background-color:  rgb(255, 224, 235);
+  background-color:  rgb(16, 37, 218);
   border-radius: 15px;
  }
  h4{
   width: 60%;
  }
 .footer { 
-  background-color:rgb(253, 187, 211);
-  color: black;
+  background-color:rgb(87, 93, 84);
+  color: rgb(62, 58, 106);
   padding: 20px;
   text-align: center;
   margin-right: 3;
@@ -60,7 +60,7 @@ ul {
 } 
  #rcorners2 {
   border-radius: 25px;
-  border: 2px solid  rgb(255, 169, 230);
+  border: 2px solid  rgb(220, 255, 225);
   padding: 20px; 
   width: 200px;
   height: 150px;
@@ -68,7 +68,7 @@ ul {
  h3.Welkom{
   border-style: dotted;
   width: 20%;
-  background-color: rgb(248, 232, 238);
+  background-color: rgb(255, 255, 255);
  }
  
  .Dokter{
