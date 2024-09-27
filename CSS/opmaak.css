@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(251, 235, 244);
+    background-color: rgb(255, 228, 225)
 }
 div {
   margin: 50px;
@@ -10,7 +10,7 @@ ul {
     margin: 0px;
     padding: 0px;
     overflow: hidden;
-    background-color: rgb(255, 169, 219)
+    background-color: rgb(243, 190, 184)
   }
   
   li {
@@ -68,7 +68,7 @@ ul {
  h3.Welkom{
   border-style: dotted;
   width: 20%;
-  background-color: rgb(255, 169, 219);
+  background-color: rgb(255, 228, 225);
  }
  
  .Dokter{
