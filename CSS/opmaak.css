@@ -66,8 +66,10 @@ ul {
  
  .Dokter{
   margin-bottom: 500px;
-  height: auto;
+  height: 50%;
+  width: 50%;
  }
  .Lezen{
-  height: auto;
+  height: 50%;
+  width: 50%;
  }
