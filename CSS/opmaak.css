@@ -11,7 +11,9 @@ div {  /* elke div element krijgt onderstaande wijzigingen */
 
 
 ul { /*het menu/*
-    list-style-type: none; /*geen opsommingtekens*/
+
+       /*geen opsommingtekens*/
+    list-style-type: none;
     margin: 0px; /*ruimte rondom menu*/
     padding: 0px; /*geen ruimte tussen inhoud en border*/
     overflow: hidden; /*lijst steekt niet uit*/
