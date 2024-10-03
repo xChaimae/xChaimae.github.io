@@ -60,7 +60,7 @@ ul { /*het menu/*
   padding: 20px; /*padding*/
   text-align: center; /*tekst in midden*/
   margin-top: 250px; /*ruimte vanaf top tot element*/
-  margin-right: 15px; /*ruimte vanaf rechts tot element*/
+  margin-right: 5px; /*ruimte vanaf rechts tot element*/
   display: block /*vorm van footer*/
 } 
 
